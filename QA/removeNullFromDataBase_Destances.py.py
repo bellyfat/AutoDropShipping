@@ -1,0 +1,3 @@
+from ImageSimilartion import ImageSimilartion
+
+ImageSimilartion.removeNullFromDatabase()
